@@ -1,0 +1,6 @@
+"id_publication","contenu","date_publication","visibilite","nombre_like","id_utilisateur","theme"
+2,"Voici une nouvelle photo de mon voyage.","2023-02-20","amis",14,2,"Photographie"
+3,"Quelqu’un a des recommandations de livres ?","2023-03-05","public",3,3,"Lecture"
+10,"Petit bug résolu, quel soulagement !","2023-10-05","amis",3,10,NULL
+12,"Nouvelle toile en cours de création.","2023-12-22","amis",2,12,"Art"
+15,"Top 5 de mes jeux vidéo préférés.","2024-03-17","amis",2,15,"Jeux Vidéos"
