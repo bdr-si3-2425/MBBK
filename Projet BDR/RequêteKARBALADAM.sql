@@ -16,7 +16,7 @@ FOR EACH ROW
 EXECUTE FUNCTION notifier_publication();
 
 --Requête 2 permet d'avoir une notification s'il y a une nouvelle interaction
---Le résultat est dans : résultatRequêteAdamPublication
+--Le résultat est dans : résultatRequêteAdamInteraction
 CREATE OR REPLACE FUNCTION notifier_interaction()
 RETURNS TRIGGER AS $$
 BEGIN
