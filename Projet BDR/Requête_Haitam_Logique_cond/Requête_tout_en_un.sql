@@ -1,3 +1,5 @@
+-- Requête tout-en-un avec logique conditionnelle
+
 DO $$ 
 DECLARE 
     action TEXT := 'ajouter';  -- Changer en 'mettre à jour' ou 'supprimer'
