@@ -1,12 +1,5 @@
 -- Requête tout-en-un avec logique conditionnelle
 
--- Paramètre d’action : 'ajouter', 'mettre à jour', ou 'supprimer'
-SET @action = 'ajouter';
-SET @id_utilisateur = 3;
-SET @id_groupe = 2;
-SET @role = 'moderateur';
-
--- Requête dynamique pour gérer l'action
 DO $$ 
 DECLARE 
     action TEXT := 'ajouter';  -- Changer en 'mettre à jour' ou 'supprimer'
